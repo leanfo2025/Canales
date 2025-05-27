@@ -5,3 +5,7 @@ https://sonic.host-live.com/8424/;
 
 #EXTINF:-1, tvg-name="FM Argentina 91.9" group-title="Radios de Entre Rios", FM Argentina
 https://sonic.host-live.com/8128/stream
+
+
+#EXTINF:-1, tvg-name="FM Del Sol Viale" group-title="Radios de Entre Rios", FM Del Sol Viale
+https://streaming2.locucionar.com/proxy/delsolfm?mp=/stream
