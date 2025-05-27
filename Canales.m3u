@@ -2,3 +2,6 @@
 
 #EXTINF:-1, tvg-name="Radio Siglo 21 Hasenkamp" group-title="Radios de Entre Rios", Radio Siglo 21 Hasenkamp
 https://sonic.host-live.com/8424/;
+
+#EXTINF:-1, tvg-name="FM Argentina 91.9" group-title="Radios de Entre Rios", FM Argentina
+https://sonic.host-live.com/8128/stream
