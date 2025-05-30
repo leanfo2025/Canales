@@ -15,6 +15,10 @@ https://streaming2.locucionar.com/proxy/delsolfm?mp=/stream
 #EXTINF:-1, tvg-name="FM Melodia 100.7 - Viale" group-title="Radios de Entre Rios", FM Melodia 100.7 - Viale
 http://centova2.veemesoft.com.ar:8606/live
 
+
+#EXTINF:-1, tvg-name="FM Esperanza 106.1 - Viale" group-title="Radios de Entre Rios", FM Esperanza 106.1 - Viale
+https://sc.host-live.com:10901/stream
+
 #EXTINF:-1, tvg-name="FM Activa 91.5 - Segui" group-title="Radios de Entre Rios", FM Activa 91.5 - Segui
 https://streaming5.locucionar.com/proxy/fmactivasegui?mp=/stream
 
