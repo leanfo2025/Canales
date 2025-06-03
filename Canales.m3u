@@ -6,7 +6,7 @@ https://chino.republicahosting.com:2346/live
 #EXTINF:-1, tvg-name="LT14 AM1260 Radio General Urquiza" group-title="Radios de Entre Rios", LT14 AM1260 Radio General Urquiza
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad44
 
-#EXTINF:-1, tvg-name="FM Argentina 91.9 -Viale" group-title="Radios de Entre Rios", FM Argentina 91.9 -Viale
+#EXTINF:-1, tvg-name="FM Argentina 91.9 - Viale" group-title="Radios de Entre Rios", FM Argentina 91.9 - Viale
 https://sonic.host-live.com/8128/stream
 
 #EXTINF:-1, tvg-name="FM Del Sol 89.9 - Viale" group-title="Radios de Entre Rios", FM Del Sol 89.9 - Viale
@@ -14,7 +14,6 @@ https://streaming2.locucionar.com/proxy/delsolfm?mp=/stream
 
 #EXTINF:-1, tvg-name="FM Melodia 100.7 - Viale" group-title="Radios de Entre Rios", FM Melodia 100.7 - Viale
 http://centova2.veemesoft.com.ar:8606/live
-
 
 #EXTINF:-1, tvg-name="FM Esperanza 106.1 - Viale" group-title="Radios de Entre Rios", FM Esperanza 106.1 - Viale
 https://sc.host-live.com:10901/stream
