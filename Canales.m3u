@@ -36,6 +36,9 @@ https://cdn.instream.audio/:9045/stream
 #EXTINF:-1, tvg-name="Radio Next 88.1 - Cerrito" group-title="Radios de Entre Rios", Radio Next 88.1 - Cerrito
 https://streaming2.locucionar.com/proxy/radionext881?mp=/stream
 
+#EXTINF:-1, tvg-name="FM Evolution 105.9 - Villaguay" group-title="Radios de Entre Rios", FM Evolution 105.9 - Villaguay
+https://sonic.host-live.com/8194/stream
+
 #EXTINF:-1, tvg-name="Multimedios Maria Grande CAM" group-title="TV de Entre Rios", Multimedios Maria Grande CAM
 https://panel.host-live.com:19360/multimedioscam/multimedioscam.m3u8
 
