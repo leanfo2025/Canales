@@ -46,7 +46,7 @@ https://streaming2.locucionar.com/proxy/radionext881?mp=/stream
 https://sonic.host-live.com/8194/stream
 
 #EXTINF:-1, tvg-name="Multimedios Maria Grande CAM" group-title="TV de Entre Rios", Multimedios Maria Grande CAM
-https://panel.host-live.com:19360/multimedioscam/multimedioscam.m3u8
+https://panel2.host-live.com/hls/stream.m3u8
 
 #EXTINF:-1, tvg-name="Remanso TV Hernandarias" group-title="TV de Entre Rios", Remanso TV Hernandarias
 https://stmv5.livecastv.com/remansotv/remansotv/playlist.m3u8
