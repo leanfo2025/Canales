@@ -6,6 +6,9 @@ https://chino.republicahosting.com:2346/live
 #EXTINF:-1, tvg-name="LT14 AM1260 Radio General Urquiza" group-title="Radios de Entre Rios", LT14 AM1260 Radio General Urquiza
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad44
 
+#EXTINF:-1, tvg-name="LT14 AM1260 Radio General Urquiza" group-title="Radios de Entre Rios", LT15 AM560 La Radio del Litoral - Concordia
+https://lt15concordia.radioca.st/stream
+
 #EXTINF:-1, tvg-name="FM Argentina 91.9 - Viale" group-title="Radios de Entre Rios", FM Argentina 91.9 - Viale
 https://sonic.host-live.com/8128/stream
 
