@@ -3,33 +3,33 @@
 https://chino.republicahosting.com:2346/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4r3Ef1s.png" group-title="Radios de Entre Rios",LT14 AM1260 Radio General Urquiza
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad44
-#EXTINF:-1 group-title="Radios de Entre Rios",LT15 AM560 La Radio del Litoral - Concordia
+#EXTINF:-1 tvg-logo="" group-title="Radios de Entre Rios",LT15 AM560 La Radio del Litoral - Concordia
 https://lt15concordia.radioca.st/stream
-#EXTINF:-1 group-title="Radios de Entre Rios",LT38 Radio Gualeguay
+#EXTINF:-1 tvg-logo="" group-title="Radios de Entre Rios",LT38 Radio Gualeguay
 https://streaming01.shockmedia.com.ar/8340/stream
-#EXTINF:-1 group-title="Radios de Entre Rios",FM Argentina 91.9 - Viale
+#EXTINF:-1 tvg-logo="" group-title="Radios de Entre Rios",FM Argentina 91.9 - Viale
 https://sonic.host-live.com/8128/stream
-#EXTINF:-1 tvg-id="FM899DelSolViale" group-title="Radios de Entre Rios",FM Del Sol 89.9 - Viale
+#EXTINF:-1 tvg-logo="" group-title="Radios de Entre Rios",FM Del Sol 89.9 - Viale
 https://streaming2.locucionar.com/proxy/delsolfm?mp=/stream
-#EXTINF:-1 group-title="Radios de Entre Rios",FM Melodia 100.7 - Viale
+#EXTINF:-1 tvg-logo="" group-title="Radios de Entre Rios",FM Melodia 100.7 - Viale
 http://centova2.veemesoft.com.ar:8606/live
-#EXTINF:-1 group-title="Radios de Entre Rios",FM Esperanza 106.1 - Viale
+#EXTINF:-1 tvg-logo="" group-title="Radios de Entre Rios",FM Esperanza 106.1 - Viale
 https://sc.host-live.com:10901/stream
 #EXTINF:-1 tvg-logo=”https://i.imgur.com/sZnlJSv.png” group-title="Radios de Entre Rios",FM Activa 91.5 - Segui
 https://streaming5.locucionar.com/proxy/fmactivasegui?mp=/stream
-#EXTINF:-1 group-title="Radios de Entre Rios",FM Puerto 88.7 - Segui
+#EXTINF:-1 tvg-logo="" group-title="Radios de Entre Rios",FM Puerto 88.7 - Segui
 https://streaming2.locucionar.com/proxy/puertofm?mp=/stream
-#EXTINF:-1 group-title="Radios de Entre Rios",Radio Top 104.9 - Segui
+#EXTINF:-1 tvg-logo="" group-title="Radios de Entre Rios",Radio Top 104.9 - Segui
 https://streaming2.locucionar.com/proxy/topsegui?mp=/stream
-#EXTINF:-1 group-title="Radios de Entre Rios",Radio Siglo 21 Hasenkamp
+#EXTINF:-1 tvg-logo="" group-title="Radios de Entre Rios",Radio Siglo 21 Hasenkamp
 https://sonic.host-live.com/8424/;
-#EXTINF:-1 group-title="Radios de Entre Rios",FM Cerrito 106.5
+#EXTINF:-1 tvg-logo="" group-title="Radios de Entre Rios",FM Cerrito 106.5
 https://cdn.instream.audio/:9045/stream
-#EXTINF:-1 group-title="Radios de Entre Rios",Radio Next 88.1 - Cerrito
+#EXTINF:-1 tvg-logo="" group-title="Radios de Entre Rios",Radio Next 88.1 - Cerrito
 https://streaming2.locucionar.com/proxy/radionext881?mp=/stream
-#EXTINF:-1 group-title="Radios de Entre Rios",FM Evolution 105.9 - Villaguay
+#EXTINF:-1 tvg-logo="" group-title="Radios de Entre Rios",FM Evolution 105.9 - Villaguay
 https://sonic.host-live.com/8194/stream
-#EXTINF:-1 group-title="TV de Entre Rios",Multimedios Maria Grande CAM
+#EXTINF:-1 tvg-logo="" group-title="TV de Entre Rios",Multimedios Maria Grande CAM
 https://panel2.host-live.com/hls/stream.m3u8
-#EXTINF:-1 group-title="TV de Entre Rios",Remanso TV Hernandarias
+#EXTINF:-1 tvg-logo="" group-title="TV de Entre Rios",Remanso TV Hernandarias
 https://stmv5.livecastv.com/remansotv/remansotv/playlist.m3u8
