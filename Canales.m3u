@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="LT39AM980" tvg-logo=”https://static.mytuner.mobi/media/tvos_radios/114/radio-victoria-lt39.279f626f.png” group-title="Radios de Entre Rios",LT39 AM980 Radio Victoria
+#EXTINF:-1 tvg-id="LT39AM980" group-title="Radios de Entre Rios",LT39 AM980 Radio Victoria
 https://chino.republicahosting.com:2346/live
 
 #EXTINF:-1 tvg-id="LLT14AM1260" group-title="Radios de Entre Rios",LT14 AM1260 Radio General Urquiza
@@ -24,7 +24,7 @@ http://centova2.veemesoft.com.ar:8606/live
 #EXTINF:-1 tvg-id="FM1061EsperanzaViale" group-title="Radios de Entre Rios",FM Esperanza 106.1 - Viale
 https://sc.host-live.com:10901/stream
 
-#EXTINF:-1 tvg-id="FM915ActivaSegui" group-title="Radios de Entre Rios",FM Activa 91.5 - Segui
+#EXTINF:-1 tvg-id="FM915ActivaSegui" tvg-logo=”https://i.imgur.com/sZnlJSv.png” group-title="Radios de Entre Rios",FM Activa 91.5 - Segui
 https://streaming5.locucionar.com/proxy/fmactivasegui?mp=/stream
 
 #EXTINF:-1 tvg-id="FM887PuertoSegui" group-title="Radios de Entre Rios",FM Puerto 88.7 - Segui
