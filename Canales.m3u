@@ -24,7 +24,7 @@ http://centova2.veemesoft.com.ar:8606/live
 #EXTINF:-1 tvg-id="FM1061EsperanzaViale" group-title="Radios de Entre Rios",FM Esperanza 106.1 - Viale
 https://sc.host-live.com:10901/stream
 
-#EXTINF:-1 tvg-id="FM915ActivaSegui" tvg-logo=”https://i.imgur.com/2nq2aKo.png” group-title="Radios de Entre Rios",FM Activa 91.5 - Segui
+#EXTINF:-1 tvg-id="FM915ActivaSegui" tvg-logo=”https://i.imgur.com/sZnlJSv.png” group-title="Radios de Entre Rios",FM Activa 91.5 - Segui
 https://streaming5.locucionar.com/proxy/fmactivasegui?mp=/stream
 
 #EXTINF:-1 tvg-id="FM887PuertoSegui" group-title="Radios de Entre Rios",FM Puerto 88.7 - Segui
