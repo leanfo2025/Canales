@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="Radios de Entre Rios", LT39 AM980 Radio Victoria
+#EXTINF:-1 tvg-id="LT39AM980" group-title="Radios de Entre Rios", LT39 AM980 Radio Victoria
 https://chino.republicahosting.com:2346/live
 
-#EXTINF:-1 group-title="Radios de Entre Rios", LT14 AM1260 Radio General Urquiza
+#EXTINF:-1 tvg-id="LLT14AM1260" group-title="Radios de Entre Rios", LT14 AM1260 Radio General Urquiza
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad44
 
-#EXTINF:-1 group-title="Radios de Entre Rios", LT15 AM560 La Radio del Litoral - Concordia
+#EXTINF:-1 tvg-id="LT15AM560" group-title="Radios de Entre Rios", LT15 AM560 La Radio del Litoral - Concordia
 https://lt15concordia.radioca.st/stream
 
 #EXTINF:-1 group-title="Radios de Entre Rios", LT38 Radio Gualeguay
