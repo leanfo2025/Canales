@@ -15,7 +15,7 @@ https://streaming01.shockmedia.com.ar/8340/stream
 #EXTINF:-1 tvg-id="FM919ArgentinaViale" group-title="Radios de Entre Rios",FM Argentina 91.9 - Viale
 https://sonic.host-live.com/8128/stream
 
-#EXTINF:-1, tvg-id="FM899DelSolViale" group-title="Radios de Entre Rios",FM Del Sol 89.9 - Viale
+#EXTINF:-1 tvg-id="FM899DelSolViale" group-title="Radios de Entre Rios",FM Del Sol 89.9 - Viale
 https://streaming2.locucionar.com/proxy/delsolfm?mp=/stream
 
 #EXTINF:-1 tvg-id="FM1007MelodiaViale" group-title="Radios de Entre Rios",FM Melodia 100.7 - Viale
@@ -33,7 +33,7 @@ https://streaming2.locucionar.com/proxy/puertofm?mp=/stream
 #EXTINF:-1 tvg-id="FM1049TopSegui" group-title="Radios de Entre Rios",Radio Top 104.9 - Segui
 https://streaming2.locucionar.com/proxy/topsegui?mp=/stream
 
-#EXTINF:-1, tvg-id="FMSiglo21Hasenkamp" group-title="Radios de Entre Rios",Radio Siglo 21 Hasenkamp
+#EXTINF:-1 tvg-id="FMSiglo21Hasenkamp" group-title="Radios de Entre Rios",Radio Siglo 21 Hasenkamp
 https://sonic.host-live.com/8424/;
 
 #EXTINF:-1 tvg-id="FM1065Cerrito" group-title="Radios de Entre Rios",FM Cerrito 106.5
