@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="LT39AM980" group-title="Radios de Entre Rios",LT39 AM980 Radio Victoria
+#EXTINF:-1 tvg-id="LT39AM980" tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="Radios de Entre Rios",LT39 AM980 Radio Victoria
 https://chino.republicahosting.com:2346/live
 
 #EXTINF:-1 tvg-id="LLT14AM1260" group-title="Radios de Entre Rios",LT14 AM1260 Radio General Urquiza
