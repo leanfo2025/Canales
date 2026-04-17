@@ -33,3 +33,5 @@ https://sonic.host-live.com/8194/stream
 https://panel2.host-live.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV de Entre Rios",Remanso TV Hernandarias
 https://stmv5.livecastv.com/remansotv/remansotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Radios de Buenos Aires",Radio La Red AM 910
+https://26653.live.streamtheworld.com/LA_RED_AM910AAC.aac
