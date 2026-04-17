@@ -33,6 +33,9 @@ https://streaming2.locucionar.com/proxy/puertofm?mp=/stream
 #EXTINF:-1 tvg-logo="" group-title="Radios de Entre Rios",Radio Top 104.9 - Segui
 https://streaming2.locucionar.com/proxy/topsegui?mp=/stream
 
+#EXTINF:-1 tvg-logo="" group-title="Radios de Entre Rios",FM Estacion Plus 94.3 Crespo
+https://sonic.host-live.com/8270/stream
+
 #EXTINF:-1 tvg-logo="" group-title="Radios de Entre Rios",Radio Siglo 21 Hasenkamp
 https://sonic.host-live.com/8424/;
 
