@@ -48,6 +48,9 @@ https://streaming2.locucionar.com/proxy/radionext881?mp=/stream
 #EXTINF:-1 tvg-logo="" group-title="Radios de Entre Rios",FM Evolution 105.9 - Villaguay
 https://sonic.host-live.com/8194/stream
 
+#EXTINF:-1 tvg-logo="" group-title="Radios de Entre Rios",Radio Bovril FM 103.1
+https://stm18.voxhd.com.br:11398/stream
+
 #EXTINF:-1 tvg-logo="" group-title="TV de Entre Rios",Multimedios Maria Grande CAM
 https://panel2.host-live.com/hls/stream.m3u8
 
