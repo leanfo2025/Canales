@@ -57,6 +57,9 @@ https://sae11.playlist.ttvnw.net/v1/playlist/CrUGXSIemB0LaEtxdLVVJRz4moSzUGIse9M
 #EXTINF:-1 tvg-logo="" group-title="TV de Entre Rios",Remanso TV Hernandarias
 https://stmv5.livecastv.com/remansotv/remansotv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="TV de Entre Rios",Radio Costa Parana 88.1
+https://panel.host-live.com:19360/municipalidadparana/municipalidadparana.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Radios de Buenos Aires",Radio La Red AM 910
 https://26653.live.streamtheworld.com/LA_RED_AM910AAC.aac
 
